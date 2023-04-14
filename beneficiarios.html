@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Beneficiarios</title>
+	<meta charset="UTF-8">
+</head>
+<body>
+	<h1>Lista de Beneficiarios</h1>
+	<table>
+		<tr>
+			<th>ID</th>
+			<th>Nombres</th>
+			<th>Apellidos</th>
+			<th>Fecha de nacimiento</th>
+			<th>Género</th>
+			<th>Municipio</th>
+		</tr>
+		<!-- Aquí se insertarán los registros de la tabla beneficiarios -->
+	</table>
+	<br>
+	<a href="index.html">Regresar a la página principal</a>
+	<br><br>
+	<h2>Agregar Beneficiario</h2>
+	<form action="insertar_beneficiario.php" method="post">
+		<label for="nombres">Nombres:</label>
+		<input type="text" id="nombres" name="nombres"><br><br>
+		<label for="apellidos">Apellidos:</label>
+		<input type="text" id="apellidos" name="apellidos"><br><br>
+		<label for="fecha_nacimiento">Fecha de Nacimiento:</label>
+		<input type="date" id="fecha_nacimiento" name="fecha_nacimiento"><br><br>
+		<label for="genero">Género:</label>
+		<select id="genero" name="genero">
+			<option value="Masculino">Masculino</option>
+			<option value="Femenino">Femenino</option>
+			<option value="Otro">Otro</option>
+		</select><br><br>
+		<label for="municipio">Municipio:</label>
+		<select id="municipio" name="municipio">
+			<!-- Aquí se insertarán los municipios existentes en la base de datos -->
+		</select><br><br>
+		<input type="submit" value="Agregar">
+	</form>
+	<br>
+	<a href="index.html">Regresar a la página principal</a>
+</body>
+</html>

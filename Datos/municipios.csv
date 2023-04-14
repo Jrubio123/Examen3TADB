@@ -1,0 +1,1124 @@
+﻿id_municipio;nombre_municipio;id_departamento
+1;Medellín;1
+2;Abejorral;1
+3;Abriaquí;1
+4;Alejandría;1
+5;Amagá;1
+6;Amalfi;1
+7;Andes;1
+8;Angelópolis;1
+9;Angostura;1
+10;Anorí;1
+11;Tununguá;2
+12;Anza;1
+13;Apartadó;1
+14;Arboletes;1
+15;Argelia;1
+16;Armenia;1
+17;Barbosa;1
+18;Bello;1
+19;Betania;1
+20;Betulia;1
+21;Ciudad Bolívar;1
+22;Briceño;1
+23;Buriticá;1
+24;Cáceres;1
+25;Caicedo;1
+26;Caldas;1
+27;Campamento;1
+28;Cañasgordas;1
+29;Caracolí;1
+30;Caramanta;1
+31;Carepa;1
+32;Motavita;2
+33;Carolina;1
+34;Caucasia;1
+35;Chigorodó;1
+36;Cisneros;1
+37;Cocorná;1
+38;Concepción;1
+39;Concordia;1
+40;Copacabana;1
+41;Dabeiba;1
+42;Don Matías;1
+43;Ebéjico;1
+44;El Bagre;1
+45;Entrerrios;1
+46;Envigado;1
+47;Fredonia;1
+48;San Bernardo del Viento;13
+49;Giraldo;1
+50;Girardota;1
+51;Gómez Plata;1
+52;Istmina;12
+53;Guadalupe;1
+54;Guarne;1
+55;Guatapé;1
+56;Heliconia;1
+57;Hispania;1
+58;Itagui;1
+59;Ituango;1
+60;Belmira;1
+61;Jericó;1
+62;La Ceja;1
+63;La Estrella;1
+64;La Pintada;1
+65;La Unión;1
+66;Liborina;1
+67;Maceo;1
+68;Marinilla;1
+69;Montebello;1
+70;Murindó;1
+71;Mutatá;1
+72;Nariño;1
+73;Necoclí;1
+74;Nechí;1
+75;Olaya;1
+76;Peñol;1
+77;Peque;1
+78;Pueblorrico;1
+79;Puerto Berrío;1
+80;Puerto Nare;1
+81;Puerto Triunfo;1
+82;Remedios;1
+83;Retiro;1
+84;Rionegro;1
+85;Sabanalarga;1
+86;Sabaneta;1
+87;Salgar;1
+88;Ciénega;2
+89;Santacruz;5
+90;San Francisco;1
+91;San Jerónimo;1
+92;Puerto Wilches;4
+93;Puerto Parra;4
+94;San Luis;1
+95;San Pedro;1
+96;San Rafael;1
+97;San Roque;1
+98;San Vicente;1
+99;Santa Bárbara;1
+100;Santo Domingo;1
+101;El Santuario;1
+102;Segovia;1
+103;Sopetrán;1
+104;Uribe;15
+105;Támesis;1
+106;Tarazá;1
+107;Tarso;1
+108;Titiribí;1
+109;Toledo;1
+110;Turbo;1
+111;Uramita;1
+112;Urrao;1
+113;Valdivia;1
+114;Valparaíso;1
+115;Vegachí;1
+116;Venecia;1
+117;Yalí;1
+118;Yarumal;1
+119;Yolombó;1
+120;Yondó;1
+121;Zaragoza;1
+122;Barranquilla;19
+123;Baranoa;19
+124;Candelaria;19
+125;Galapa;19
+126;Luruaco;19
+127;Malambo;19
+128;Manatí;19
+129;Piojó;19
+130;Polonuevo;19
+131;Sabanagrande;19
+132;Sabanalarga;19
+133;Santa Lucía;19
+134;Santo Tomás;19
+135;Soledad;19
+136;Suan;19
+137;Tubará;19
+138;Usiacurí;19
+139;Achí;7
+140;Arenal;7
+141;Arjona;7
+142;Arroyohondo;7
+143;Calamar;7
+144;Cantagallo;7
+145;Cicuco;7
+146;Córdoba;7
+147;Clemencia;7
+148;El Guamo;7
+149;Magangué;7
+150;Mahates;7
+151;Margarita;7
+152;Montecristo;7
+153;Mompós;7
+154;Morales;7
+155;Norosí;7
+156;Pinillos;7
+157;Regidor;7
+158;Río Viejo;7
+159;San Estanislao;7
+160;San Fernando;7
+161;San Juan Nepomuceno;7
+162;Santa Catalina;7
+163;Santa Rosa;7
+164;Simití;7
+165;Soplaviento;7
+166;Talaigua Nuevo;7
+167;Tiquisio;7
+168;Turbaco;7
+169;Turbaná;7
+170;Villanueva;7
+171;Tunja;2
+172;Almeida;2
+173;Aquitania;2
+174;Arcabuco;2
+175;Berbeo;2
+176;Betéitiva;2
+177;Boavita;2
+178;Boyacá;2
+179;Briceño;2
+180;Buena Vista;2
+181;Busbanzá;2
+182;Caldas;2
+183;Campohermoso;2
+184;Cerinza;2
+185;Chinavita;2
+186;Chiquinquirá;2
+187;Chiscas;2
+188;Chita;2
+189;Chitaraque;2
+190;Chivatá;2
+191;Cómbita;2
+192;Coper;2
+193;Corrales;2
+194;Covarachía;2
+195;Cubará;2
+196;Cucaita;2
+197;Cuítiva;2
+198;Chíquiza;2
+199;Chivor;2
+200;Duitama;2
+201;El Cocuy;2
+202;El Espino;2
+203;Firavitoba;2
+204;Floresta;2
+205;Gachantivá;2
+206;Gameza;2
+207;Garagoa;2
+208;Guacamayas;2
+209;Guateque;2
+210;Guayatá;2
+211;Güicán;2
+212;Iza;2
+213;Jenesano;2
+214;Jericó;2
+215;Labranzagrande;2
+216;La Capilla;2
+217;La Victoria;2
+218;Macanal;2
+219;Maripí;2
+220;Miraflores;2
+221;Mongua;2
+222;Monguí;2
+223;Moniquirá;2
+224;Muzo;2
+225;Nobsa;2
+226;Nuevo Colón;2
+227;Oicatá;2
+228;Otanche;2
+229;Pachavita;2
+230;Páez;2
+231;Paipa;2
+232;Pajarito;2
+233;Panqueba;2
+234;Pauna;2
+235;Paya;2
+236;Pesca;2
+237;Pisba;2
+238;Puerto Boyacá;2
+239;Quípama;2
+240;Ramiriquí;2
+241;Ráquira;2
+242;Rondón;2
+243;Saboyá;2
+244;Sáchica;2
+245;Samacá;2
+246;San Eduardo;2
+247;San Mateo;2
+248;Santana;2
+249;Santa María;2
+250;Santa Sofía;2
+251;Sativanorte;2
+252;Sativasur;2
+253;Siachoque;2
+254;Soatá;2
+255;Socotá;2
+256;Socha;2
+257;Sogamoso;2
+258;Somondoco;2
+259;Sora;2
+260;Sotaquirá;2
+261;Soracá;2
+262;Susacón;2
+263;Sutamarchán;2
+264;Sutatenza;2
+265;Tasco;2
+266;Tenza;2
+267;Tibaná;2
+268;Tinjacá;2
+269;Tipacoque;2
+270;Toca;2
+271;Tópaga;2
+272;Tota;2
+273;Turmequé;2
+274;Tutazá;2
+275;Umbita;2
+276;Ventaquemada;2
+277;Viracachá;2
+278;Zetaquira;2
+279;Manizales;16
+280;Aguadas;16
+281;Anserma;16
+282;Aranzazu;16
+283;Belalcázar;16
+284;Chinchiná;16
+285;Filadelfia;16
+286;La Dorada;16
+287;La Merced;16
+288;Manzanares;16
+289;Marmato;16
+290;Marulanda;16
+291;Neira;16
+292;Norcasia;16
+293;Pácora;16
+294;Palestina;16
+295;Pensilvania;16
+296;Riosucio;16
+297;Risaralda;16
+298;Salamina;16
+299;Samaná;16
+300;San José;16
+301;Supía;16
+302;Victoria;16
+303;Villamaría;16
+304;Viterbo;16
+305;Florencia;21
+306;Albania;21
+307;Curillo;21
+308;El Doncello;21
+309;El Paujil;21
+310;Morelia;21
+311;Puerto Rico;21
+312;Solano;21
+313;Solita;21
+314;Valparaíso;21
+315;Popayán;9
+316;Almaguer;9
+317;Argelia;9
+318;Balboa;9
+319;Bolívar;9
+320;Buenos Aires;9
+321;Cajibío;9
+322;Caldono;9
+323;Caloto;9
+324;Corinto;9
+325;El Tambo;9
+326;Florencia;9
+327;Guachené;9
+328;Guapi;9
+329;Inzá;9
+330;Jambaló;9
+331;La Sierra;9
+332;La Vega;9
+333;López;9
+334;Mercaderes;9
+335;Miranda;9
+336;Morales;9
+337;Padilla;9
+338;Patía;9
+339;Piamonte;9
+340;Piendamó;9
+341;Puerto Tejada;9
+342;Puracé;9
+343;Rosas;9
+344;Santa Rosa;9
+345;Silvia;9
+346;Sotara;9
+347;Suárez;9
+348;Sucre;9
+349;Timbío;9
+350;Timbiquí;9
+351;Toribio;9
+352;Totoró;9
+353;Villa Rica;9
+354;Valledupar;18
+355;Aguachica;18
+356;Agustín Codazzi;18
+357;Astrea;18
+358;Becerril;18
+359;Bosconia;18
+360;Chimichagua;18
+361;Chiriguaná;18
+362;Curumaní;18
+363;El Copey;18
+364;El Paso;18
+365;Gamarra;18
+366;González;18
+367;La Gloria;18
+368;Manaure;18
+369;Pailitas;18
+370;Pelaya;18
+371;Pueblo Bello;18
+372;La Paz;18
+373;San Alberto;18
+374;San Diego;18
+375;San Martín;18
+376;Tamalameque;18
+377;Montería;13
+378;Ayapel;13
+379;Buenavista;13
+380;Canalete;13
+381;Cereté;13
+382;Chimá;13
+383;Chinú;13
+384;Cotorra;13
+385;Lorica;13
+386;Los Córdobas;13
+387;Momil;13
+388;Moñitos;13
+389;Planeta Rica;13
+390;Pueblo Nuevo;13
+391;Puerto Escondido;13
+392;Purísima;13
+393;Sahagún;13
+394;San Andrés Sotavento;13
+395;San Antero;13
+396;San Pelayo;13
+397;Tierralta;13
+398;Tuchín;13
+399;Valencia;13
+400;Anapoima;3
+401;Arbeláez;3
+402;Beltrán;3
+403;Bituima;3
+404;Bojacá;3
+405;Cabrera;3
+406;Cachipay;3
+407;Cajicá;3
+408;Caparrapí;3
+409;Caqueza;3
+410;Chaguaní;3
+411;Chipaque;3
+412;Choachí;3
+413;Chocontá;3
+414;Cogua;3
+415;Cota;3
+416;Cucunubá;3
+417;El Colegio;3
+418;El Rosal;3
+419;Fomeque;3
+420;Fosca;3
+421;Funza;3
+422;Fúquene;3
+423;Gachala;3
+424;Gachancipá;3
+425;Gachetá;3
+426;Girardot;3
+427;Granada;3
+428;Guachetá;3
+429;Guaduas;3
+430;Guasca;3
+431;Guataquí;3
+432;Guatavita;3
+433;Guayabetal;3
+434;Gutiérrez;3
+435;Jerusalén;3
+436;Junín;3
+437;La Calera;3
+438;La Mesa;3
+439;La Palma;3
+440;La Peña;3
+441;La Vega;3
+442;Lenguazaque;3
+443;Macheta;3
+444;Madrid;3
+445;Manta;3
+446;Medina;3
+447;Mosquera;3
+448;Nariño;3
+449;Nemocón;3
+450;Nilo;3
+451;Nimaima;3
+452;Nocaima;3
+453;Venecia;3
+454;Pacho;3
+455;Paime;3
+456;Pandi;3
+457;Paratebueno;3
+458;Pasca;3
+459;Puerto Salgar;3
+460;Pulí;3
+461;Quebradanegra;3
+462;Quetame;3
+463;Quipile;3
+464;Apulo;3
+465;Ricaurte;3
+466;San Bernardo;3
+467;San Cayetano;3
+468;San Francisco;3
+469;Sesquilé;3
+470;Sibaté;3
+471;Silvania;3
+472;Simijaca;3
+473;Soacha;3
+474;Subachoque;3
+475;Suesca;3
+476;Supatá;3
+477;Susa;3
+478;Sutatausa;3
+479;Tabio;3
+480;Tausa;3
+481;Tena;3
+482;Tenjo;3
+483;Tibacuy;3
+484;Tibirita;3
+485;Tocaima;3
+486;Tocancipá;3
+487;Topaipí;3
+488;Ubalá;3
+489;Ubaque;3
+490;Une;3
+491;Útica;3
+492;Vianí;3
+493;Villagómez;3
+494;Villapinzón;3
+495;Villeta;3
+496;Viotá;3
+497;Zipacón;3
+498;Quibdó;12
+499;Acandí;12
+500;Alto Baudo;12
+501;Atrato;12
+502;Bagadó;12
+503;Bahía Solano;12
+504;Bajo Baudó;12
+505;Bojaya;12
+506;Cértegui;12
+507;Condoto;12
+508;Juradó;12
+509;Lloró;12
+510;Medio Atrato;12
+511;Medio Baudó;12
+512;Medio San Juan;12
+513;Nóvita;12
+514;Nuquí;12
+515;Río Iro;12
+516;Río Quito;12
+517;Riosucio;12
+518;Sipí;12
+519;Unguía;12
+520;Neiva;11
+521;Acevedo;11
+522;Agrado;11
+523;Aipe;11
+524;Algeciras;11
+525;Altamira;11
+526;Baraya;11
+527;Campoalegre;11
+528;Colombia;11
+529;Elías;11
+530;Garzón;11
+531;Gigante;11
+532;Guadalupe;11
+533;Hobo;11
+534;Iquira;11
+535;Isnos;11
+536;La Argentina;11
+537;La Plata;11
+538;Nátaga;11
+539;Oporapa;11
+540;Paicol;11
+541;Palermo;11
+542;Palestina;11
+543;Pital;11
+544;Pitalito;11
+545;Rivera;11
+546;Saladoblanco;11
+547;Santa María;11
+548;Suaza;11
+549;Tarqui;11
+550;Tesalia;11
+551;Tello;11
+552;Teruel;11
+553;Timaná;11
+554;Villavieja;11
+555;Yaguará;11
+556;Riohacha;22
+557;Albania;22
+558;Barrancas;22
+559;Dibula;22
+560;Distracción;22
+561;El Molino;22
+562;Fonseca;22
+563;Hatonuevo;22
+564;Maicao;22
+565;Manaure;22
+566;Uribia;22
+567;Urumita;22
+568;Villanueva;22
+569;Santa Marta;14
+570;Algarrobo;14
+571;Aracataca;14
+572;Ariguaní;14
+573;Cerro San Antonio;14
+574;Chivolo;14
+575;Concordia;14
+576;El Banco;14
+577;El Piñon;14
+578;El Retén;14
+579;Fundación;14
+580;Guamal;14
+581;Nueva Granada;14
+582;Pedraza;14
+583;Pivijay;14
+584;Plato;14
+585;Remolino;14
+586;Salamina;14
+587;San Zenón;14
+588;Santa Ana;14
+589;Sitionuevo;14
+590;Tenerife;14
+591;Zapayán;14
+592;Zona Bananera;14
+593;Villavicencio;15
+594;Acacias;15
+595;Cabuyaro;15
+596;Cubarral;15
+597;Cumaral;15
+598;El Calvario;15
+599;El Castillo;15
+600;El Dorado;15
+601;Granada;15
+602;Guamal;15
+603;Mapiripán;15
+604;Mesetas;15
+605;La Macarena;15
+606;Lejanías;15
+607;Puerto Concordia;15
+608;Puerto Gaitán;15
+609;Puerto López;15
+610;Puerto Lleras;15
+611;Puerto Rico;15
+612;Restrepo;15
+613;San Juanito;15
+614;San Martín;15
+615;Vista Hermosa;15
+616;Pasto;5
+617;Albán;5
+618;Aldana;5
+619;Ancuyá;5
+620;Barbacoas;5
+621;Colón;5
+622;Consaca;5
+623;Contadero;5
+624;Córdoba;5
+625;Cuaspud;5
+626;Cumbal;5
+627;Cumbitara;5
+628;El Charco;5
+629;El Peñol;5
+630;El Rosario;5
+631;El Tambo;5
+632;Funes;5
+633;Guachucal;5
+634;Guaitarilla;5
+635;Gualmatán;5
+636;Iles;5
+637;Imués;5
+638;Ipiales;5
+639;La Cruz;5
+640;La Florida;5
+641;La Llanada;5
+642;La Tola;5
+643;La Unión;5
+644;Leiva;5
+645;Linares;5
+646;Los Andes;5
+647;Magüí;5
+648;Mallama;5
+649;Mosquera;5
+650;Nariño;5
+651;Olaya Herrera;5
+652;Ospina;5
+653;Francisco Pizarro;5
+654;Policarpa;5
+655;Potosí;5
+656;Providencia;5
+657;Puerres;5
+658;Pupiales;5
+659;Ricaurte;5
+660;Roberto Payán;5
+661;Samaniego;5
+662;Sandoná;5
+663;San Bernardo;5
+664;San Lorenzo;5
+665;San Pablo;5
+666;Santa Bárbara;5
+667;Sapuyes;5
+668;Taminango;5
+669;Tangua;5
+670;Túquerres;5
+671;Yacuanquer;5
+672;Armenia;25
+673;Buenavista;25
+674;Circasia;25
+675;Córdoba;25
+676;Filandia;25
+677;La Tebaida;25
+678;Montenegro;25
+679;Pijao;25
+680;Quimbaya;25
+681;Salento;25
+682;Pereira;23
+683;Apía;23
+684;Balboa;23
+685;Dosquebradas;23
+686;Guática;23
+687;La Celia;23
+688;La Virginia;23
+689;Marsella;23
+690;Mistrató;23
+691;Pueblo Rico;23
+692;Quinchía;23
+693;Santuario;23
+694;Bucaramanga;4
+695;Aguada;4
+696;Albania;4
+697;Aratoca;4
+698;Barbosa;4
+699;Barichara;4
+700;Barrancabermeja;4
+701;Betulia;4
+702;Bolívar;4
+703;Cabrera;4
+704;California;4
+705;Carcasí;4
+706;Cepitá;4
+707;Cerrito;4
+708;Charalá;4
+709;Charta;4
+710;Chipatá;4
+711;Cimitarra;4
+712;Concepción;4
+713;Confines;4
+714;Contratación;4
+715;Coromoro;4
+716;Curití;4
+717;El Guacamayo;4
+718;El Playón;4
+719;Encino;4
+720;Enciso;4
+721;Florián;4
+722;Floridablanca;4
+723;Galán;4
+724;Gambita;4
+725;Girón;4
+726;Guaca;4
+727;Guadalupe;4
+728;Guapotá;4
+729;Guavatá;4
+730;Güepsa;4
+731;Jesús María;4
+732;Jordán;4
+733;La Belleza;4
+734;Landázuri;4
+735;La Paz;4
+736;Lebríja;4
+737;Los Santos;4
+738;Macaravita;4
+739;Málaga;4
+740;Matanza;4
+741;Mogotes;4
+742;Molagavita;4
+743;Ocamonte;4
+744;Oiba;4
+745;Onzaga;4
+746;Palmar;4
+747;Páramo;4
+748;Piedecuesta;4
+749;Pinchote;4
+750;Puente Nacional;4
+751;Rionegro;4
+752;San Andrés;4
+753;San Gil;4
+754;San Joaquín;4
+755;San Miguel;4
+756;Santa Bárbara;4
+757;Simacota;4
+758;Socorro;4
+759;Suaita;4
+760;Sucre;4
+761;Suratá;4
+762;Tona;4
+763;Vélez;4
+764;Vetas;4
+765;Villanueva;4
+766;Zapatoca;4
+767;Sincelejo;17
+768;Buenavista;17
+769;Caimito;17
+770;Coloso;17
+771;Coveñas;17
+772;Chalán;17
+773;El Roble;17
+774;Galeras;17
+775;Guaranda;17
+776;La Unión;17
+777;Los Palmitos;17
+778;Majagual;17
+779;Morroa;17
+780;Ovejas;17
+781;Palmito;17
+782;San Benito Abad;17
+783;San Marcos;17
+784;San Onofre;17
+785;San Pedro;17
+786;Sucre;17
+787;Tolú Viejo;17
+788;Alpujarra;6
+789;Alvarado;6
+790;Ambalema;6
+791;Armero;6
+792;Ataco;6
+793;Cajamarca;6
+794;Chaparral;6
+795;Coello;6
+796;Coyaima;6
+797;Cunday;6
+798;Dolores;6
+799;Espinal;6
+800;Falan;6
+801;Flandes;6
+802;Fresno;6
+803;Guamo;6
+804;Herveo;6
+805;Honda;6
+806;Icononzo;6
+807;Mariquita;6
+808;Melgar;6
+809;Murillo;6
+810;Natagaima;6
+811;Ortega;6
+812;Palocabildo;6
+813;Piedras;6
+814;Planadas;6
+815;Prado;6
+816;Purificación;6
+817;Rio Blanco;6
+818;Roncesvalles;6
+819;Rovira;6
+820;Saldaña;6
+821;Santa Isabel;6
+822;Venadillo;6
+823;Villahermosa;6
+824;Villarrica;6
+825;Arauquita;28
+826;Cravo Norte;28
+827;Fortul;28
+828;Puerto Rondón;28
+829;Saravena;28
+830;Tame;28
+831;Arauca;28
+832;Yopal;20
+833;Aguazul;20
+834;Chámeza;20
+835;Hato Corozal;20
+836;La Salina;20
+837;Monterrey;20
+838;Pore;20
+839;Recetor;20
+840;Sabanalarga;20
+841;Sácama;20
+842;Tauramena;20
+843;Trinidad;20
+844;Villanueva;20
+845;Mocoa;24
+846;Colón;24
+847;Orito;24
+848;Puerto Caicedo;24
+849;Puerto Guzmán;24
+850;Leguízamo;24
+851;Sibundoy;24
+852;San Francisco;24
+853;San Miguel;24
+854;Santiago;24
+855;Leticia;26
+856;El Encanto;26
+857;La Chorrera;26
+858;La Pedrera;26
+859;La Victoria;26
+860;Puerto Arica;26
+861;Puerto Nariño;26
+862;Puerto Santander;26
+863;Tarapacá;26
+864;Inírida;27
+865;Barranco Minas;27
+866;Mapiripana;27
+867;San Felipe;27
+868;Puerto Colombia;27
+869;La Guadalupe;27
+870;Cacahual;27
+871;Pana Pana;27
+872;Mitú;29
+873;Carurú;29
+874;Taraira;29
+875;Papunahua;29
+876;Yavaraté;29
+877;Pacoa;29
+878;Morichal;27
+879;Puerto Carreño;30
+880;La Primavera;30
+881;Santa Rosalía;30
+882;Cumaribo;30
+883;San José del Fragua;21
+884;Barranca de Upía;15
+885;Palmas del Socorro;4
+886;San Juan de Río Seco;3
+887;Juan de Acosta;19
+888;Fuente de Oro;15
+889;San Luis de Gaceno;20
+890;El Litoral del San Juan;12
+891;Villa de San Diego de Ubate;3
+892;Barranco de Loba;7
+893;Togüí;2
+894;Santa Rosa del Sur;7
+895;El Cantón del San Pablo;12
+896;Villa de Leyva;2
+897;San Sebastián de Buenavista;14
+898;Paz de Río;2
+899;Hatillo de Loba;7
+900;Sabanas de San Angel;14
+901;Calamar;31
+902;Río de Oro;18
+903;San Pedro de Uraba;1
+904;San José del Guaviare;31
+905;Santa Rosa de Viterbo;2
+906;Santander de Quilichao;9
+907;Miraflores;31
+908;Santafé de Antioquia;1
+909;San Carlos de Guaroa;15
+910;Palmar de Varela;19
+911;Santa Rosa de Osos;1
+912;San Andrés de Cuerquía;1
+913;Valle de San Juan;6
+914;San Vicente de Chucurí;4
+915;San José de Miranda;4
+916;Providencia;32
+917;Santa Rosa de Cabal;23
+918;Guayabal de Siquima;3
+919;Belén de Los Andaquies;21
+920;Paz de Ariporo;20
+921;Santa Helena del Opón;4
+922;San Pablo de Borbur;2
+923;La Jagua del Pilar;22
+924;La Jagua de Ibirico;18
+925;San Luis de Sincé;17
+926;San Luis de Gaceno;2
+927;El Carmen de Bolívar;7
+928;El Carmen de Atrato;12
+929;San Juan de Betulia;17
+930;Pijiño del Carmen;14
+931;Vigía del Fuerte;1
+932;San Martín de Loba;7
+933;Altos del Rosario;7
+934;Carmen de Apicala;6
+935;San Antonio del Tequendama;3
+936;Sabana de Torres;4
+937;El Retorno;31
+938;San José de Uré;13
+939;San Pedro de Cartago;5
+940;Campo de La Cruz;19
+941;San Juan de Arama;15
+942;San José de La Montaña;1
+943;Cartagena del Chairá;21
+944;San José del Palmar;12
+945;Agua de Dios;3
+946;San Jacinto del Cauca;7
+947;San Agustín;11
+948;El Tablón de Gómez;5
+949;San Andrés;32
+950;San José de Pare;2
+951;Valle de Guamez;24
+952;San Pablo de Borbur;7
+953;Santiago de Tolú;17
+954;Bogota;3
+955;Carmen de Carupa;3
+956;Ciénaga de Oro;13
+957;San Juan de Urabá;1
+958;San Juan del Cesar;22
+959;El Carmen de Chucurí;4
+960;El Carmen de Viboral;1
+961;Belén de Umbría;23
+962;Belén de Bajira;12
+963;Valle de San José;4
+964;San Luis;6
+965;San Miguel de Sema;2
+966;San Antonio;6
+967;San Benito;4
+968;Vergara;3
+969;San Carlos;13
+970;Puerto Alegría;26
+971;Hato;4
+972;San Jacinto;7
+973;San Sebastián;9
+974;San Carlos;1
+975;Tuta;2
+976;Silos;10
+977;Cácota;10
+978;El Dovio;8
+979;Toledo;10
+980;Roldanillo;8
+981;Mutiscua;10
+982;Argelia;8
+983;El Zulia;10
+984;Salazar;10
+985;Sevilla;8
+986;Zarzal;8
+987;Cucutilla;10
+988;El Cerrito;8
+989;Cartago;8
+990;Caicedonia;8
+991;Puerto Santander;10
+992;Gramalote;10
+993;El Cairo;8
+994;El Tarra;10
+995;La Unión;8
+996;Restrepo;8
+997;Teorama;10
+998;Dagua;8
+999;Arboledas;10
+1000;Guacarí;8
+1001;Lourdes;10
+1002;Ansermanuevo;8
+1003;Bochalema;10
+1004;Bugalagrande;8
+1005;Convención;10
+1006;Hacarí;10
+1007;La Victoria;8
+1008;Herrán;10
+1009;Ginebra;8
+1010;Yumbo;8
+1011;Obando;8
+1012;Tibú;10
+1013;San Cayetano;10
+1014;San Calixto;10
+1015;Bolívar;8
+1016;La Playa;10
+1017;Cali;8
+1018;San Pedro;8
+1019;Guadalajara de Buga;8
+1020;Chinácota;10
+1021;Ragonvalia;10
+1022;La Esperanza;10
+1023;Villa del Rosario;10
+1024;Chitagá;10
+1025;Calima;8
+1026;Sardinata;10
+1027;Andalucía;8
+1028;Pradera;8
+1029;Abrego;10
+1030;Los Patios;10
+1031;Ocaña;10
+1032;Bucarasica;10
+1033;Yotoco;8
+1034;Palmira;8
+1035;Riofrío;8
+1036;Santiago;10
+1037;Alcalá;8
+1038;Versalles;8
+1039;Labateca;10
+1040;Cachirá;10
+1041;Villa Caro;10
+1042;Durania;10
+1043;El Águila;8
+1044;Toro;8
+1045;Candelaria;8
+1046;La Cumbre;8
+1047;Ulloa;8
+1048;Trujillo;8
+1049;Vijes;8
+1050;Chimá;4
+1051;Sampués;17
+1052;Nunchía;20
+1053;Pamplona;10
+1054;Albán;3
+1055;Montelíbano;13
+1056;Puerto Asís;24
+1057;Corozal;17
+1058;Buesaco;5
+1059;Maní;20
+1060;El Peñón;7
+1061;Tuluá;8
+1062;Casabianca;6
+1063;Anolaima;3
+1064;Chía;3
+1065;San Andrés de Tumaco;5
+1066;Milán;21
+1067;Capitanejo;4
+1068;Anzoátegui;6
+1069;Florida;8
+1070;Repelón;19
+1071;Frontino;1
+1072;El Peñón;3
+1073;Pamplonita;10
+1074;Miriti Paraná;26
+1075;Támara;20
+1076;Tibasosa;2
+1077;Páez;9
+1078;Ibagué;6
+1079;Puerto Colombia;19
+1080;Belén;5
+1081;Sopó;3
+1082;Carmen del Darien;12
+1083;Gama;3
+1084;Sasaima;3
+1085;Chachagüí;5
+1086;Cúcuta;10
+1087;Cartagena;7
+1088;Granada;1
+1089;Santa Bárbara de Pinto;14
+1090;María la Baja;7
+1091;La Montañita;21
+1092;San Vicente del Caguán;21
+1093;El Peñón;4
+1094;Jardín;1
+1095;Jamundí;8
+1096;Tadó;12
+1097;Orocué;20
+1098;Líbano;6
+1099;Yacopí;3
+1100;Calarcá;25
+1101;Sonsón;1
+1102;El Carmen;10
+1103;Lérida;6
+1104;La Apartada;13
+1105;San Cristóbal;7
+1106;Fusagasugá;3
+1107;Zambrano;7
+1108;La Uvita;2
+1109;Zipaquirá;3
+1110;Génova;25
+1111;Suárez;6
+1112;Castilla la Nueva;15
+1113;Belén;2
+1114;Unión Panamericana;12
+1115;Pueblo Viejo;14
+1116;Villagarzón;24
+1117;Facatativá;3
+1118;Puerto Libertador;13
+1119;Marquetalia;16
+1120;Arboleda;5
+1121;Buenaventura;8
+1122;Ciénaga;14
+1123;Ponedera;19
